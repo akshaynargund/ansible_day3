@@ -12,3 +12,5 @@ server2 ansible_port=3000
 server3 ansible_port=2000
 [qa]
 server4 ansible_port=3000
+[qa]
+server5 ansible_port=3000
